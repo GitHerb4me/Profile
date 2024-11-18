@@ -25,6 +25,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/chaeeun-lee-0b4036306/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/KRchaeeun">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
       </div>
 
 <h3 align="left">Languages and Tools:</h3>
