@@ -93,13 +93,13 @@
 		</a>
  	<p>Software</p>
   		<a style="margin-left: 10px;" href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-			<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
+			<img src="https://i.ibb.co/s1DHgSF/adobe-illustrator.png"/>
 		</a>
   		<a style="margin-left: 10px;" href="https://www.photoshop.com/en" target="_blank"> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/> 
+			<img src="https://i.ibb.co/PjmsmGZ/photoshop.png"/> 
 		</a>
   		<a style="margin-left: 10px;" href="https://postman.com" target="_blank" > 
-			<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> 
+			<img src="https://i.ibb.co/SXJ51fq/postman.png"/> 
 		</a>
    	<p>Other</p>
     		<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
