@@ -28,6 +28,8 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/KRchaeeun">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	 <a style="margin-left: 10px;" target="_blank" href="https://www.kaggle.com/dachaeeun">
+		<img src="https://ibb.co/GMrdsH0"></a>
       </div>
 
 <h3 align="left">Languages and Tools:</h3>
