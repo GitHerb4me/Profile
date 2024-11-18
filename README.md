@@ -30,9 +30,9 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://www.kaggle.com/dachaeeun">
 		<img src="https://i.ibb.co/gdxkP82/kaggle.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://www.kaggle.com/dachaeeun">
+	<a style="margin-left: 10px;" target="_blank" href="https://www.hackerrank.com/profile/cheeun0903">
 		<img src="https://i.ibb.co/gdGHyvv/hackerrank.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://www.kaggle.com/dachaeeun">
+	<a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/u/cheeun0903/">
 		<img src="https://i.ibb.co/ZHcnc0V/leetcode.png"></a>
       </div>
 
