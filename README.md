@@ -103,10 +103,13 @@
 
 <br>
 
-<div align="center" style="margin-left: 10px;">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krchaeeun&show_icons=true&locale=en&layout=compact" alt="krchaeeun" /></p>
+<div align="center">
+    <a href="https://solved.ac/cheeun0903/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cheeun0903" alt="Solved.ac Profile" />
+    </a>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KRchaeeun&hide_border=true)](https://git.io/streak-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cheeun0903)](https://solved.ac/cheeun0903/)
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krchaeeun&show_icons=true&locale=en&layout=compact" alt="krchaeeun" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com?user=KRchaeeun&hide_border=true" alt="GitHub Streak" /></p>
 </div>
