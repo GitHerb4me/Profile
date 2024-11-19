@@ -107,4 +107,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krchaeeun&show_icons=true&locale=en&layout=compact" alt="krchaeeun" /></p>
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=krchaeeun&show_icons=true&locale=en" alt="krchaeeun" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KRchaeeun&hide_border=true)](https://git.io/streak-stats)
 </div>
