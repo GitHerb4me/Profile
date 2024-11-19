@@ -3,25 +3,24 @@
 
 <br>
 
-<h3 align="left">WHO AM I?</h3>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+    <img src="https://i.ibb.co/gvpCRMY/Kakao-Talk-20241119-135916519.jpg" height="250">
+    <div>
+        <h3 align="left">WHO AM I?</h3>
+        <ul style="list-style-type: none; padding: 0;">
+            <li>🔭 I’m currently working on <strong>Image Colorization and Restoration with AI</strong></li>
+            <li>🌱 I’m currently learning <strong>AI, Big Data Analysis, etc.</strong></li>
+            <li>👯 I’m looking to collaborate on <strong>any Data Analysis Projects</strong></li>
+            <li>👨‍💻 All of my projects are available at <a href="https://github.com/KRchaeeun/KRchaeeun">https://github.com/KRchaeeun/KRchaeeun</a></li>
+            <li>📝 I regularly write articles on <a href="https://chaeeun-data.site/">https://chaeeun-data.site/</a></li>
+            <li>💬 Ask me about <strong>Python, SQL, and R programming</strong></li>
+            <li>📫 How to reach me <strong>chaeeun.data@gmail.com</strong></li>
+            <li>📄 Know about my experiences <a href="https://www.notion.so/Hey-there-I-am-Chaeeun-129ce3b5b8b280ffbc1ec9fe65e0a24b">https://www.notion.so/Hey-there-I-am-Chaeeun</a></li>
+            <li>⚡ Fun fact <strong>I think I'm SUPER POSITIVE and Funny 🎶</strong></li>
+        </ul>
+    </div>
+</div>
 
-- 🔭 I’m currently working on **Image Colorization and Restoration with AI**
-
-- 🌱 I’m currently learning **AI, Big Data Analysis, etc.**
-
-- 👯 I’m looking to collaborate on **any Data Analysis Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/KRchaeeun/KRchaeeun](https://github.com/KRchaeeun/KRchaeeun)
-
-- 📝 I regularly write articles on [https://chaeeun-data.site/](https://chaeeun-data.site/)
-
-- 💬 Ask me about **Python, SQL and R programming**
-
-- 📫 How to reach me **chaeeun.data@gmail.com**
-
-- 📄 Know about my experiences [https://www.notion.so/Hey-there-I-am-Chaeeun-129ce3b5b8b280ffbc1ec9fe65e0a24b](https://www.notion.so/Hey-there-I-am-Chaeeun-129ce3b5b8b280ffbc1ec9fe65e0a24b)
-
-- ⚡ Fun fact **I think I'm SUPER POSITIVE and Funny 🎶**
 
 <br>
 
@@ -87,6 +86,21 @@
  
 </div>
 
+<div align="center">
+    <div style="margin-top: 20px;">
+        <a href="https://solved.ac/cheeun0903/">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cheeun0903" alt="Solved.ac Profile" />
+        </a>
+    </div>
+<br>
+    <div style="display: inline-flex; align-items: center; gap: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krchaeeun&show_icons=true&locale=en&layout=compact" alt="krchaeeun" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=KRchaeeun&hide_border=true&card_height=80" alt="GitHub Streak" />
+    </div>
+</div>
+
+<br>
+
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <div align="center" class="icons-social" style="margin-left: 10px;">
 	<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/chaeeun-lee-0b4036306/">
@@ -99,18 +113,4 @@
 		<img src="https://i.ibb.co/gdGHyvv/hackerrank.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/u/cheeun0903/">
 		<img src="https://i.ibb.co/ZHcnc0V/leetcode.png"></a>
-</div>
-
-<br>
-
-<div align="center">
-    <div style="margin-top: 20px;">
-        <a href="https://solved.ac/cheeun0903/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cheeun0903" alt="Solved.ac Profile" />
-        </a>
-    </div>
-    <div style="display: inline-flex; align-items: center; gap: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krchaeeun&show_icons=true&locale=en&layout=compact" alt="krchaeeun" />
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=KRchaeeun&hide_border=true" alt="GitHub Streak" />
-    </div>
 </div>
