@@ -104,12 +104,13 @@
 <br>
 
 <div align="center">
-    <a href="https://solved.ac/cheeun0903/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cheeun0903" alt="Solved.ac Profile" />
-    </a>
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krchaeeun&show_icons=true&locale=en&layout=compact" alt="krchaeeun" /></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com?user=KRchaeeun&hide_border=true" alt="GitHub Streak" /></p>
+    <div style="margin-top: 20px;">
+        <a href="https://solved.ac/cheeun0903/">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cheeun0903" alt="Solved.ac Profile" />
+        </a>
+    </div>
+    <div style="display: inline-flex; align-items: center; gap: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krchaeeun&show_icons=true&locale=en&layout=compact" alt="krchaeeun" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=KRchaeeun&hide_border=true" alt="GitHub Streak" />
+    </div>
 </div>
