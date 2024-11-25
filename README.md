@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CHAEEUN LEE!</h1>
+<h1 align="center">Hi 👋, I'm CHAEEUN LEE</h1>
 <h3 align="center">A Data Geek from Korea 😎</h3>
 
 <br>
